@@ -1,0 +1,7 @@
+{
+  "name": "login-bdd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
